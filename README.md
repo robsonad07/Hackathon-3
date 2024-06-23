@@ -27,3 +27,7 @@
 ![Descrição da imagem](imagens/print12.png)
 #### Deploy
 ![Descrição da imagem](imagens/print13.png)
+
+## Repositórios relacionados:
+- https://github.com/robsonad07/ReactBasic
+- https://github.com/robsonad07/Backend-IT_Talent
