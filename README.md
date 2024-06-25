@@ -1,5 +1,5 @@
 # Hackathon-3
-# Aluno: Robson do Amaral Diógenes
+# Dupla: Robson do Amaral Diógenes e Felipe Oliveira Nogueira
 ## Atividade 01:
 #### Token
 ![Descrição da imagem](imagens/print1.png)
